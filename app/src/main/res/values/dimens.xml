@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--TitleView Dimen-->
+    <dimen name="iv_padding">7dp</dimen>
+    <dimen name="title_height">45dp</dimen>
+    <dimen name="iv_width">40dp</dimen>
+
+    <!--DMTitleView Dimen-->
+    <dimen name="iv_padding_dm">9dp</dimen>
+
+</resources>
